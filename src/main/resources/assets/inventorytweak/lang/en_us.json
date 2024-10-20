@@ -11,6 +11,10 @@
   "text.config.inventorytweak-config.enum.sortType.name": "Name",
   "text.config.inventorytweak-config.enum.sortType.rarity": "Rarity",
 
+  "text.config.inventorytweak-config.option.arrangeLayoutType": "Items Arrangement Layout",
+  "text.config.inventorytweak-config.enum.arrangeLayoutType.disabled": "Disabled",
+  "text.config.inventorytweak-config.enum.arrangeLayoutType.left_to_right": "Left to Right",
+
   "text.config.inventorytweak-config.section.durabilityWarningSection": "Durability Warning Section",
   "text.config.inventorytweak-config.option.activateDurabilityWarning": "Activate Durability Warning",
   "text.config.inventorytweak-config.option.percentageDurabilityWarning": "Percentage Durability Warning",
