@@ -1,5 +1,6 @@
 package net.anvian.inventorytweaks.mixin;
 
+import net.anvian.inventorytweaks.InventoryTweak;
 import net.anvian.inventorytweaks.handler.ModKeyBinding;
 import net.anvian.inventorytweaks.sort.SortInventory;
 import net.minecraft.client.MinecraftClient;
@@ -32,6 +33,7 @@ public class MixinKeyInputHandler {
 
     @Unique
     private void inventoryTweakSortingKeyPressed() {
+        if (!InventoryTweak.CONFIG.activateSortingInventory()) return;
         if (MinecraftClient.getInstance().player == null) return;
 
         ScreenHandler screenHandler = MinecraftClient.getInstance().player.currentScreenHandler;
