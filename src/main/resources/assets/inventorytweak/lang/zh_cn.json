@@ -3,6 +3,9 @@
     "key.inventorytweak.sort_inventory_key": "库存分拣机键",
     "text.config.inventorytweak-config.title": "库存调整配置屏幕",
     "text.config.inventorytweak-config.option.sortType": "排序类型",
+    "text.config.inventorytweak-config.option.arrangeLayoutType" : "Items Arrangement Layout",
     "text.config.inventorytweak-config.enum.sortType.name": "名字",
-    "text.config.inventorytweak-config.enum.sortType.type": "类型"
+    "text.config.inventorytweak-config.enum.sortType.type": "类型",
+    "text.config.inventorytweak-config.enum.arrangeLayoutType.disabled": "Disabled",
+    "text.config.inventorytweak-config.enum.arrangeLayoutType.left_to_right": "Left to Right"
 }

@@ -4,6 +4,9 @@
 
   "text.config.inventorytweak-config.title": "Inventory Tweak Config Screen",
   "text.config.inventorytweak-config.option.sortType" : "Sort Type",
+  "text.config.inventorytweak-config.option.arrangeLayoutType" : "Items Arrangement Layout",
   "text.config.inventorytweak-config.enum.sortType.name" : "Name",
-  "text.config.inventorytweak-config.enum.sortType.type" : "Type"
+  "text.config.inventorytweak-config.enum.sortType.type" : "Type",
+  "text.config.inventorytweak-config.enum.arrangeLayoutType.disabled": "Disabled",
+  "text.config.inventorytweak-config.enum.arrangeLayoutType.left_to_right": "Left to Right"
 }

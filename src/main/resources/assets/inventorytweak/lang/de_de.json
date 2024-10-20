@@ -3,6 +3,9 @@
     "key.inventorytweak.sort_inventory_key": "Schlüssel für den Bestandssortierer",
     "text.config.inventorytweak-config.title": "Konfigurationsbildschirm für die Inventaroptimierung",
     "text.config.inventorytweak-config.option.sortType": "Art der Sortierung",
+    "text.config.inventorytweak-config.option.arrangeLayoutType" : "Items Arrangement Layout",
     "text.config.inventorytweak-config.enum.sortType.name": "Name",
-    "text.config.inventorytweak-config.enum.sortType.type": "Art"
+    "text.config.inventorytweak-config.enum.sortType.type": "Art",
+    "text.config.inventorytweak-config.enum.arrangeLayoutType.disabled": "Disabled",
+    "text.config.inventorytweak-config.enum.arrangeLayoutType.left_to_right": "Left to Right"
 }

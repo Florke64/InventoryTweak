@@ -3,6 +3,9 @@
     "key.inventorytweak.sort_inventory_key": "Chiave di smistamento inventario",
     "text.config.inventorytweak-config.title": "Schermata di configurazione delle modifiche all'inventario",
     "text.config.inventorytweak-config.option.sortType": "Tipo di ordinamento",
+    "text.config.inventorytweak-config.option.arrangeLayoutType" : "Items Arrangement Layout",
     "text.config.inventorytweak-config.enum.sortType.name": "Nome",
-    "text.config.inventorytweak-config.enum.sortType.type": "Digitare"
+    "text.config.inventorytweak-config.enum.sortType.type": "Digitare",
+    "text.config.inventorytweak-config.enum.arrangeLayoutType.disabled": "Disabled",
+    "text.config.inventorytweak-config.enum.arrangeLayoutType.left_to_right": "Left to Right"
 }

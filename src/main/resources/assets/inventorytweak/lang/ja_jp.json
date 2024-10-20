@@ -3,6 +3,9 @@
     "key.inventorytweak.sort_inventory_key": "インベントリソーターキー",
     "text.config.inventorytweak-config.title": "Inventory Tweak Config画面",
     "text.config.inventorytweak-config.option.sortType": "ソートタイプ",
+    "text.config.inventorytweak-config.option.arrangeLayoutType" : "Items Arrangement Layout",
     "text.config.inventorytweak-config.enum.sortType.name": "名前",
-    "text.config.inventorytweak-config.enum.sortType.type": "種類"
+    "text.config.inventorytweak-config.enum.sortType.type": "種類",
+    "text.config.inventorytweak-config.enum.arrangeLayoutType.disabled": "Disabled",
+    "text.config.inventorytweak-config.enum.arrangeLayoutType.left_to_right": "Left to Right"
 }

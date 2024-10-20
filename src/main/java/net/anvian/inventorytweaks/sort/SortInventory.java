@@ -25,6 +25,11 @@ public class SortInventory {
         if (cursorCleared(ContainerSlots.get(), screenHandler)) {
             mergeItemStacks(ContainerSlots.get(), screenHandler);
             sortItemStacks(ContainerSlots.get(), screenHandler);
+
+            // Post-sorting item arrangement
+            if (InventoryTweak.CONFIG.arrangeLayoutType() != ModConfig.ArrangeLayoutType.DISABLED) {
+                new ArrangeInventory(screenHandler).apply();
+            }
         }
     }
 

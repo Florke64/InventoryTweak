@@ -3,6 +3,9 @@
     "key.inventorytweak.sort_inventory_key": "인벤토리 분류기 키",
     "text.config.inventorytweak-config.title": "Inventory Tweak Config 화면",
     "text.config.inventorytweak-config.option.sortType": "정렬 유형",
+    "text.config.inventorytweak-config.option.arrangeLayoutType" : "Items Arrangement Layout",
     "text.config.inventorytweak-config.enum.sortType.name": "이름",
-    "text.config.inventorytweak-config.enum.sortType.type": "형"
+    "text.config.inventorytweak-config.enum.sortType.type": "형",
+    "text.config.inventorytweak-config.enum.arrangeLayoutType.disabled": "Disabled",
+    "text.config.inventorytweak-config.enum.arrangeLayoutType.left_to_right": "Left to Right"
 }

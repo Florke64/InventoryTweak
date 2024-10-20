@@ -3,6 +3,9 @@
     "key.inventorytweak.sort_inventory_key": "Klucz sortowania zapasów",
     "text.config.inventorytweak-config.title": "Ekran konfiguracji modyfikacji ekwipunku",
     "text.config.inventorytweak-config.option.sortType": "Typ sortowania",
+    "text.config.inventorytweak-config.option.arrangeLayoutType" : "Items Arrangement Layout",
     "text.config.inventorytweak-config.enum.sortType.name": "Nazwa",
-    "text.config.inventorytweak-config.enum.sortType.type": "Typ"
+    "text.config.inventorytweak-config.enum.sortType.type": "Typ",
+    "text.config.inventorytweak-config.enum.arrangeLayoutType.disabled": "Disabled",
+    "text.config.inventorytweak-config.enum.arrangeLayoutType.left_to_right": "Left to Right"
 }
