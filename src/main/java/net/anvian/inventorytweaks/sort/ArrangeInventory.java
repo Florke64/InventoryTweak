@@ -11,11 +11,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
-import java.util.logging.Logger;
 
 public class ArrangeInventory {
-
-    private static final Logger logger = Logger.getLogger(InventoryTweak.MOD_ID);
 
     private final ScreenHandler screenHandler;
 
@@ -51,8 +48,6 @@ public class ArrangeInventory {
 
         int itemSourceSlot = slotsMap.get(sortingTargetSlot);
         Interaction.swapStacks(sortingTargetSlot, itemSourceSlot);
-
-        logger.info("Commanded to swap " + sortingTargetSlot + " with " + itemSourceSlot);
 
         // Update slotsMap
         for (int key : slotsMap.keySet()) {
